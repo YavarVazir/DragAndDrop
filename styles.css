@@ -1,0 +1,31 @@
+.nameList {
+  height: 625px;
+  width: 250px;
+  border: solid 1px black;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+  margin-top: 20px;
+}
+
+.uniqueCell {
+  border: 1px solid black;
+  text-align: center;
+  display: inline-block;
+  width: 10%;
+  height: 70px;
+  margin-left: 20px;
+  margin-top: 20px;
+  vertical-align: middle;
+}
+
+.name {
+  width: 80%;
+  height: 8%;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
